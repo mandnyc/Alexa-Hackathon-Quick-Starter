@@ -1,0 +1,24 @@
+{
+  "name": "hackathon-quick-start",
+  "version": "1.0.0",
+  "description": "quick starter for Alexa hackathon projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mandnyc/hackathon-quick-start.git"
+  },
+  "keywords": [
+    "hackathon",
+    "alexa",
+    "nodejs"
+  ],
+  "author": "mandy chan",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.5",
+    "ssml-builder": "^0.1.0"
+  }
+}
