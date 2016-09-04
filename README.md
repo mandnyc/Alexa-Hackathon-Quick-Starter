@@ -1,4 +1,7 @@
 # Alexa-Hackathon-Quick-Starter
+This get started handout, walks developers through the architecture, basic terminology and steps required to get started quickly. By the end of the handout, the developer will have a Hello World application running with the knowledge to enhance it. 
+
+You can find a pdf copy with step-by-step images above.
 
 ##Glossary
 - Alexa/ Alexa service: The cloud-based service that Echo uses which is capable of listening and responding to commands. It is being used in different devices. e.g Echo, Tap, smart watches and  even car.
