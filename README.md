@@ -23,7 +23,7 @@ You can find the pdf copy with step-by-step images [here](https://github.com/man
 
 ####2. Configuration
   * Sign in AWS console
-    * Log in to https://console.as.amazon.com
+    * Log in to https://console.aws.amazon.com
     * In the top navigation, look for Services, then look for Management Tools under All AWS Services, select CloudFormation
     
   * In CloudFormation
